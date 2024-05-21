@@ -2,6 +2,10 @@
 
 <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/>
 
+## Commit Activity
+![Commit Graph](https://ghchart.rshah.org/sammygojs)
+
+## Contribution Card
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammygojs&theme=radical)
 
 ## About Me
