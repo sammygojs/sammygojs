@@ -2,6 +2,8 @@
 
 <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammygojs&theme=radical)
+
 ## About Me
 I'm a passionate developer with a love for anime and Software Development. I enjoy creating innovative solutions and visualizing complex data in a comprehensible manner.
 
@@ -60,4 +62,3 @@ I'm a passionate developer with a love for anime and Software Development. I enj
 
 ## Random Anime Quote
 ![Anime Quote](https://anime-quotes-api.herokuapp.com/quote)
-
