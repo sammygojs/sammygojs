@@ -33,6 +33,28 @@ I'm a passionate developer with a love for anime and Software Development. I enj
   - Designed and maintained MySQL database
   - Integrated PayPal sandbox for secure transaction processing
   - Collaborated with team members for seamless project execution
+ 
+  ### Plant Recognition: AI-Powered Plant Identification System
+- **Description:** An application designed to assist users in identifying plants using images through advanced machine learning algorithms.
+- **Technologies Used:**
+  - **Frontend:** HTML, CSS, React
+  - **Backend:** Node.js, Express
+  - **Database:** MongoDB
+  - **Machine Learning:** TensorFlow, Keras
+- **Key Features:**
+  - User-friendly interface for uploading plant images
+  - Real-time plant identification using machine learning models
+  - Display of detailed information about identified plants, including species name, characteristics, and care instructions
+  - User account management with a history of identified plants
+  - Admin panel for managing plant data and user access
+- **Responsibilities:**
+  - Developed frontend components using HTML, CSS, and React
+  - Implemented backend services using Node.js and Express
+  - Designed and managed the MongoDB database schema for efficient data storage
+  - Integrated machine learning models developed with TensorFlow and Keras for accurate plant identification
+  - Conducted testing and debugging to maintain high performance and reliability of the system
+  - Collaborated with a team to ensure seamless integration of frontend and backend components
+
 
 ### TaskTuner: Personalized To-Do Manager
 - **Description:** An Android application designed to assist users in organizing their tasks efficiently.
