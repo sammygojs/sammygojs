@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @sammy
-- 👀 I’m interested in Core Java and JS
-- 🌱 I’m currently learning React and implementing Javascript
-- 💞️ I’m looking to collaborate on anything
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!---
-sammygojs/sammygojs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
