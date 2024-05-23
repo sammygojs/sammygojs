@@ -5,6 +5,9 @@
 ## Commit Activity
 ![Commit Graph](https://ghchart.rshah.org/sammygojs)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Achievements
 - **Certified Backend Developer - Meta 2023:** Successfully completed and obtained certification as a Backend Developer.
 - **Google CyberSecurity Certification 2024:** Completed the Google CyberSecurity Certification program.
