@@ -5,6 +5,12 @@
 ## Commit Activity
 ![Commit Graph](https://ghchart.rshah.org/sammygojs)
 
+## Achievements
+- **Certified Backend Developer - Meta 2023:** Successfully completed and obtained certification as a Backend Developer.
+- **Google CyberSecurity Certification 2024:** Completed the Google CyberSecurity Certification program.
+- **Top Performer - LTIMindtree 2022:** Awarded Top Team Performer for exemplary contributions and problem-solving abilities.
+- **ETH Hackathon Web 3.0 2023:** Actively participated in the ETH Hackathon Web 3.0 2023 held in London.
+
 ## Contribution Card
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammygojs&theme=radical)
 
@@ -75,12 +81,6 @@ I'm a passionate developer with a love for anime and Software Development. I enj
   - Developed frontend components using Kotlin and Jetpack Compose
   - Implemented backend functionalities using Room Database
   - Conducted testing and debugging for stability and reliability
-
-## Achievements
-- **Certified Backend Developer - Meta 2023:** Successfully completed and obtained certification as a Backend Developer.
-- **Google CyberSecurity Certification 2024:** Completed the Google CyberSecurity Certification program.
-- **Top Performer - LTIMindtree 2022:** Awarded Top Team Performer for exemplary contributions and problem-solving abilities.
-- **ETH Hackathon Web 3.0 2023:** Actively participated in the ETH Hackathon Web 3.0 2023 held in London.
 
 ## Contact
 - **Email:** [sakoliya.uk@gmail.com](mailto:sakoliya.uk@gmail.com)
