@@ -1,6 +1,8 @@
-# Hi there, I'm Sumit Akoliya 👋
+# Hi there, I'm Sammy 🥷
 
-<img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/>
+<p align="center">
+ <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/></p>
+</p>
 
 <!--## Commit Activity
 ![Commit Graph](https://ghchart.rshah.org/sammygojs)
@@ -14,7 +16,11 @@
 - **Top Performer - LTIMindtree 2022:** Awarded Top Team Performer for exemplary contributions and problem-solving abilities.
 - **ETH Hackathon Web 3.0 2023:** Actively participated in the ETH Hackathon Web 3.0 2023 held in London.
 
-![Certification](https://drive.google.com/uc?export=view&id=1xjxzh075ljhgK8ngOhtxkqIwQ14_PNo5)
+<p align="start">
+  <img src="https://drive.google.com/uc?export=view&id=1xjxzh075ljhgK8ngOhtxkqIwQ14_PNo5" alt="Certification" width="300"/>
+  <img src="https://drive.google.com/uc?export=view&id=1F2ptoaa5yJlbvoeH9TTU9LsWVsiqMFSr" alt="Certification" width="300"/>
+</p>
+
 
 ## Contribution Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammygojs&show_icons=true&theme=transparent)
