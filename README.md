@@ -14,6 +14,8 @@
 - **Top Performer - LTIMindtree 2022:** Awarded Top Team Performer for exemplary contributions and problem-solving abilities.
 - **ETH Hackathon Web 3.0 2023:** Actively participated in the ETH Hackathon Web 3.0 2023 held in London.
 
+![Certification](https://drive.google.com/uc?export=view&id=1xjxzh075ljhgK8ngOhtxkqIwQ14_PNo5)
+
 ## Contribution Card
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammygojs&show_icons=true&theme=transparent)
 
