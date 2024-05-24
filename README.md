@@ -15,7 +15,7 @@
 - **ETH Hackathon Web 3.0 2023:** Actively participated in the ETH Hackathon Web 3.0 2023 held in London.
 
 ## Contribution Card
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammygojs&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammygojs&show_icons=true&theme=transparent)
 
 ## About Me
 I'm a passionate developer with a love for anime and Software Development. I enjoy creating innovative solutions and visualizing complex data in a comprehensible manner.
