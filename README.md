@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/>
 
-## Commit Activity
+<!--## Commit Activity
 ![Commit Graph](https://ghchart.rshah.org/sammygojs)
 
 <!--START_SECTION:badges-->
