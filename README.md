@@ -34,64 +34,62 @@ I'm a passionate developer with a love for anime and Software Development. I enj
 - **Tools:** Git, Docker, Kubernetes, Adobe AEM, Maven, Mockito
 - **Databases:** MySQL, PostgreSQL, MongoDB, Room Database
 
+<!-- Add this to your README.md -->
+
 ## Projects
-### EnvironTech: Portal for Users to Purchase Offshore Solar Power
-- **Description:** A comprehensive project aimed at empowering households to reduce their carbon footprint by purchasing solar panels and solar products.
-- **Technologies Used:**
-  - **Frontend:** HTML, CSS, React, Tailwind CSS
-  - **Backend:** Flask, Python
-  - **Database:** MySQL
-- **Key Features:**
-  - User-friendly dashboard for calculating and offsetting carbon emissions
-  - Real-time display of carbon offset progress
-  - Integration with PayPal sandbox for secure transactions
-  - User account management with order purchase history
-  - Staff login page for user data management and report generation
-  - Admin panel for system administration and user access management
-- **Responsibilities:**
-  - Developed frontend components using HTML, CSS, React, and Tailwind CSS
-  - Implemented backend functionalities using Flask and Python
-  - Designed and maintained MySQL database
-  - Integrated PayPal sandbox for secure transaction processing
-  - Collaborated with team members for seamless project execution
- 
-  ### Plant Recognition: AI-Powered Plant Identification System
-- **Description:** An application designed to assist users in identifying plants using images through advanced machine learning algorithms.
-- **Technologies Used:**
-  - **Frontend:** HTML, CSS, React
-  - **Backend:** Node.js, Express
-  - **Database:** MongoDB
-  - **Machine Learning:** TensorFlow, Keras
-- **Key Features:**
-  - User-friendly interface for uploading plant images
-  - Real-time plant identification using machine learning models
-  - Display of detailed information about identified plants, including species name, characteristics, and care instructions
-  - User account management with a history of identified plants
-  - Admin panel for managing plant data and user access
-- **Responsibilities:**
-  - Developed frontend components using HTML, CSS, and React
-  - Implemented backend services using Node.js and Express
-  - Designed and managed the MongoDB database schema for efficient data storage
-  - Integrated machine learning models developed with TensorFlow and Keras for accurate plant identification
-  - Conducted testing and debugging to maintain high performance and reliability of the system
-  - Collaborated with a team to ensure seamless integration of frontend and backend components
+<!-- Carousel Container -->
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+<!-- Project 1: EnvironTech -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="https://drive.google.com/uc?export=view&id=1y5yeSG7E0vsYZaqkkklsYasi2MU1SBOa" alt="EnvironTech" style="width: 40%; border-radius: 4px;">
+  </div>
+  <div style="flex: 1;">
+    <h3>EnvironTech: Portal for Users to Purchase Offshore Solar Power</h3>
+    <p>
+      <strong>Description:</strong> A comprehensive project aimed at empowering households to reduce their carbon footprint by purchasing solar panels and solar products.<br>
+      <strong>Technologies Used:</strong><br>
+      <strong>Frontend:</strong> HTML, CSS, React, Tailwind CSS<br>
+      <strong>Backend:</strong> Flask, Python<br>
+      <strong>Database:</strong> MySQL<br>
+      <strong>Key Features:</strong> User-friendly dashboard, real-time display, PayPal integration, user management, staff login, admin panel<br>
+      <strong>Responsibilities:</strong> Frontend and backend development, database design, PayPal integration, team collaboration
+    </p>
+  </div>
+</div>
 
+  <!-- Project 2: Plant Recognition -->
+  <div style="display: inline-block; width: 300px; margin-right: 20px; vertical-align: top;">
+    <img src="https://your-link-to-image.com/plant_recognition.png" alt="Plant Recognition" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <h3>Plant Recognition: AI-Powered Plant Identification System</h3>
+    <p>
+      <strong>Description:</strong> An application designed to assist users in identifying plants using images through advanced machine learning algorithms.<br>
+      <strong>Technologies Used:</strong><br>
+      <strong>Frontend:</strong> HTML, CSS, React<br>
+      <strong>Backend:</strong> Node.js, Express<br>
+      <strong>Database:</strong> MongoDB<br>
+      <strong>Machine Learning:</strong> TensorFlow, Keras<br>
+      <strong>Key Features:</strong> Real-time plant identification, detailed plant information, user management, admin panel<br>
+      <strong>Responsibilities:</strong> Frontend and backend development, database management, machine learning integration, testing and debugging
+    </p>
+  </div>
 
-### TaskTuner: Personalized To-Do Manager
-- **Description:** An Android application designed to assist users in organizing their tasks efficiently.
-- **Technologies Used:**
-  - **Frontend:** Kotlin, Jetpack Compose
-  - **Backend:** Room Database
-- **Key Features:**
-  - Create customizable to-do lists
-  - Categorization of tasks into six categories based on priority and status
-  - Customizable reminders for tasks
-  - Integration of pre-defined templates for quick task entry
-  - Efficient data storage and retrieval using Room Database
-- **Responsibilities:**
-  - Developed frontend components using Kotlin and Jetpack Compose
-  - Implemented backend functionalities using Room Database
-  - Conducted testing and debugging for stability and reliability
+  <!-- Project 3: TaskTuner -->
+  <div style="display: inline-block; width: 300px; margin-right: 20px; vertical-align: top;">
+    <img src="https://your-link-to-image.com/tasktuner.png" alt="TaskTuner" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <h3>TaskTuner: Personalized To-Do Manager</h3>
+    <p>
+      <strong>Description:</strong> An Android application designed to assist users in organizing their tasks efficiently.<br>
+      <strong>Technologies Used:</strong><br>
+      <strong>Frontend:</strong> Kotlin, Jetpack Compose<br>
+      <strong>Backend:</strong> Room Database<br>
+      <strong>Key Features:</strong> Customizable to-do lists, task categorization, reminders, templates, efficient data storage<br>
+      <strong>Responsibilities:</strong> Frontend development, backend implementation, testing and debugging
+    </p>
+  </div>
+
+</div>
+
 
 ## Contact
 - **Email:** [sakoliya.uk@gmail.com](mailto:sakoliya.uk@gmail.com)
