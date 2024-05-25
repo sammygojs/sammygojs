@@ -95,5 +95,5 @@ I'm a passionate developer with a love for anime and Software Development. I enj
 - **Email:** [sakoliya.uk@gmail.com](mailto:sakoliya.uk@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/sumitakoliya/)
 
-## Random Anime Quote
-![Anime Quote](https://anime-quotes-api.herokuapp.com/quote)
+<!--## Random Anime Quote
+![Anime Quote](https://anime-quotes-api.herokuapp.com/quote)-->
