@@ -42,7 +42,7 @@ I'm a passionate developer with a love for anime and Software Development. I enj
 <!-- Project 1: EnvironTech -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; border: 1px solid #ddd; border-radius: 4px; padding: 10px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="https://drive.google.com/uc?export=view&id=1y5yeSG7E0vsYZaqkkklsYasi2MU1SBOa" alt="EnvironTech" style="width: 40%; border-radius: 4px;">
+    <img src="https://drive.google.com/uc?export=view&id=1y5yeSG7E0vsYZaqkkklsYasi2MU1SBOa" alt="EnvironTech" style="width: 40%; border-radius: 4px; ">
   </div>
   <div style="flex: 1;">
     <h3>EnvironTech: Portal for Users to Purchase Offshore Solar Power</h3>
@@ -57,10 +57,9 @@ I'm a passionate developer with a love for anime and Software Development. I enj
     </p>
   </div>
 </div>
-
   <!-- Project 2: Plant Recognition -->
   <div style="display: inline-block; width: 300px; margin-right: 20px; vertical-align: top;">
-    <img src="https://your-link-to-image.com/plant_recognition.png" alt="Plant Recognition" style="width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="https://drive.google.com/uc?export=view&id=1KqT--0ILzMAIJIHvCxmAfyYNjzPTISno" alt="EnvironTech" style="width: 35%; border-radius: 4px;">
     <h3>Plant Recognition: AI-Powered Plant Identification System</h3>
     <p>
       <strong>Description:</strong> An application designed to assist users in identifying plants using images through advanced machine learning algorithms.<br>
