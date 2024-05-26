@@ -59,7 +59,7 @@ I'm a passionate developer with a love for anime and Software Development. I enj
 </div>
   <!-- Project 2: Plant Recognition -->
   <div style="display: inline-block; width: 300px; margin-right: 20px; vertical-align: top;">
-    <img src="https://drive.google.com/uc?export=view&id=1KqT--0ILzMAIJIHvCxmAfyYNjzPTISno" alt="EnvironTech" style="width: 35%; border-radius: 4px;">
+    <img src="https://drive.google.com/uc?export=view&id=1KqT--0ILzMAIJIHvCxmAfyYNjzPTISno" alt="EnvironTech" style="width: 40%; border-radius: 4px;">
     <h3>Plant Recognition: AI-Powered Plant Identification System</h3>
     <p>
       <strong>Description:</strong> An application designed to assist users in identifying plants using images through advanced machine learning algorithms.<br>
