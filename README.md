@@ -22,8 +22,8 @@
 </p>
 
 
-## Contribution Card
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammygojs&show_icons=true&theme=transparent)
+<!--## Contribution Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammygojs&show_icons=true&theme=transparent)-->
 
 ## About Me
 I'm a passionate developer with a love for anime and Software Development. I enjoy creating innovative solutions and visualizing complex data in a comprehensible manner.
