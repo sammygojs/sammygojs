@@ -1,4 +1,4 @@
-# Hi there, I'm Sammy 🥷
+# Hi there, I'm Sumit 🥷
 
 <p align="start">
  <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" alt="Anime Gif" style="width:100%;"/></p>
